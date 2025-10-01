@@ -1,0 +1,18 @@
+ > Organograma
+
+O processor realiza troca de mensagens e dados com 3 outros componentes (caminho de duas vias):
+
+1. Memórias primárias;
+2. Dispositivos de entrada;
+3. Memórias secundárias;
+
+
+4. Dispositivos de saída = Onde seria exportado o compilado de dados.
+
+> Componentes
+
+1. Processador: Circuito integrado que realiza as funções de cálculo e tomada de decisão.
+2. Placa Mãe: Parte do computador responsável por conectar e interligar todos os componentes.
+3. Memórias Primárias (RAM): Responsáveis por armazenar temporariamente os dados que estão em uso nesse momento (memórias geralmente voláteis).
+4. Memóras Secundárias (HD): Responsáveis por armazenar os dados por tempo indeterminado (memórias geralmente não volateis).
+
