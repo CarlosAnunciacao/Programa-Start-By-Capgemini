@@ -1,0 +1,78 @@
+Software é o conjunto de instruções dadas a um computador, de modo que ele
+execute determinada tarefa. É a parte intangível de uma máquina, desenvolvida
+por meio de códigos e linguagem de programação. Por exemplo, quando ligamos um computador, é o software que transmite as
+informações necessárias para que o hardware funcione. E cada parte do
+hardware é controlada por um software específico.
+
+
+Os drivers de dispositivos, que controlam e monitoram o funcionamento de
+dispositivos específicos, também são softwares de sistema.
+
+Se o software é um >>>>conjunto de instruções<<<<, é papel do programador montar
+essas instruções e para tal ele utiliza o que é conhecido como linguagem de
+programação. Existem diversas linguagens de programação, cada qual com suas
+características, vantagens e desvantagens. Uma das classificações para linguagens de programação, divide-as em
+>>>compiladas e interpretadas<<<
+
+
+!! Linguagens de Programação compiladas !!
+
+É uma linguagem de programação em que o código fonte, nessa linguagem, é
+executado diretamente pelo sistema operacional ou pelo processador, após ser
+traduzido por meio de um processo chamado compilação, usando
+um programa de computador chamado compilador.
+
+==========================================================================================================================================
+Esquema:
+
+"Codigo Fonte" --> "Compilador" --> "Codigo Objeto (Assembly)" --> "Executar" --> Resultado
+
+"Independente do S.O" --> "Atua cada vez que se modifica o programa" --> "Depende do S.O" --> Atua cada vez que se executa o programa"
+
+==========================================================================================================================================
+
+Assembly: é uma linguagem de programação composta por comandos simples.
+Escrevendo código Assembly você sabe exatamente o que o processador esta
+fazendo;
+
+Assembler: é um programa que lê o arquivo contendo os comandos simples da
+linguagem Assembly e transforma em linguagem de máquina.
+
+Linguagem de máquina: é a única coisa que o processador consegue
+interpretar, e são apenas códigos, não da para ser lido por humanos
+
+==========================================================================================================================================
+Esquema:
+
+Escrevemos o código (alto nível) -> Assembly -> Codigo de máquina (Assembler)
+
+==========================================================================================================================================
+
+!! Linguagens de Programação interpretadas !!
+
+ É uma linguagem de programação em que o código fonte nessa linguagem é
+executado por um programa de computador chamado interpretador, que em
+seguida é executado pelo sistema operacional ou processador
+
+==========================================================================================================================================
+Esquema:
+
+Código fonte --> Interpretador --> Resultado
+
+"Independente do S.O" --> "Atua cada vez que se modifica o programa" --> Resultado
+
+Exemplo: "Escrever código JS" --> "Navegador" --> Resultado
+==========================================================================================================================================
+
+
+!! Linguagens de compiladas X interpretadas !!
+
+L. C
+
+Compilação: Programa (fonte) -> (Compilador) -> Programa Objeto
+Execução: Dados de entrada -> Programa Objeto -> Saída
+
+L.I
+
+Programa Fonte ou Dados de entrada -> Interpretador -> Saída
+
