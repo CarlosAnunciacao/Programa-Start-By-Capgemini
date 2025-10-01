@@ -1,0 +1,42 @@
+!! Uso da lógica na solução de problemas !!
+
+Partindo-se do princípio que muitas das nossas tarefas diárias são uma:
+
+Sequência ações que obedecem uma determinada ordem, de um estado inicial, através de um
+período de tempo finito e que nesse período produzimos resultados esperados e bem definidos.
+
+!! Uso da lógica na solução de problemas !!
+
+Partindo-se do princípio que muitas das nossas tarefas diárias são uma:
+sequência ações que obedecem uma determinada ordem, de um estado inicial, através de um
+período de tempo finito e que nesse período produzimos resultados esperados e bem definidos.
+
+=========================================================================================================
+
+Esquema: 
+
+Usando conceitos da logica formal <-----> Algoritmo <--------> Usando conceitos da logica algebrica
+
+=========================================================================================================
+
+!! Logica Formal
+
+Ferramenta para desenvolver cadeia de pensamentos, que permitem reconhecer contradições e eliminar possibilidades de erros
+
+Visa desenvolver a capacidade de discernimento: identificar raciocínios validos e não válidos,
+
+=========================================================================================================
+
+Esquema: 
+
+Baseado em preposição:
+
+Preposiçoes: 
+
+1. É uma frase;
+2. Declarativa;
+3. Recebe um valor lógico;
+
+=========================================================================================================
+
+
